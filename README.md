@@ -1,6 +1,8 @@
 # EXIF_remover
 
-Removes exif from images. Usage:
+Removes exif from images. It overwrites the images, therefore be careful with sensible data!!!
+
+Usage:
 
 `python remove_exif --dir <your_image_directory>`
 
