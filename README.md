@@ -4,7 +4,7 @@ Removes exif from images. It overwrites the images, therefore be careful with se
 
 Usage:
 
-`python remove_exif --dir <your_image_directory>`
+`python remove_exif.py --dir <your_image_directory>`
 
 Dependencies are light (just numpy and Pillow)
 
