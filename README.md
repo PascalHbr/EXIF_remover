@@ -2,6 +2,8 @@
 
 Removes exif from images. Usage:
 
-`python remove_exif --dir <your_image_directory`
+`python remove_exif --dir <your_image_directory>`
 
 Dependencies are light (just numpy and Pillow)
+
+Works for file types `.jpg`, `.gif`, `.png` and `.tga`, but can be easily adjusted.
